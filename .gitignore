@@ -1,0 +1,7 @@
+# AGENTS.md 3-layer architecture ignore rules
+.tmp/
+.env
+credentials.json
+token.json
+__pycache__/
+*.pyc
